@@ -3,7 +3,7 @@
 </a>
 
 
-#MoltenVK External Dependencies
+#MoltenVK External Dependencies 
 
 Copyright (c) 2015-2025 [The Brenwill Workshop Ltd.](http://www.brenwill.com)
 
